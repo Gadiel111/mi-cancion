@@ -1,6 +1,6 @@
 # mi-cancion
 editar-cancion
-                            {background-color:#dd2020  <h1>ARRANCACORAZONES ATAQUE77<h1>}
+                            color:#dd2020  <h1>ARRANCACORAZONES ATAQUE77<h1>
   
              <h3>   Evitar, resistir
                 Tu hechizo de suave adicción
