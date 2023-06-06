@@ -1,8 +1,8 @@
 # mi-cancion
 editar-cancion
-                              <h1>ARRANCACORAZONES ATAQUE77<h1>
+                            {background-color:#dd2020  <h1>ARRANCACORAZONES ATAQUE77<h1>}
   
-                Evitar, resistir
+             <h3>   Evitar, resistir
                 Tu hechizo de suave adicción
                 Como si fuera fácil
                 Dominar mi sentir
@@ -74,4 +74,4 @@ editar-cancion
   
                 Quiero intoxicarme en vos
                 Arrancacorazones
-                Dame tu droga..
+                Dame tu droga.. <h3>
