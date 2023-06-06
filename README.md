@@ -1,8 +1,8 @@
 # mi-cancion
 editar-cancion
-                            color:#dd2020  <h1>ARRANCACORAZONES ATAQUE77<h1>
+                                ARRANCACORAZONES ATAQUE77 
   
-             <h3>   Evitar, resistir
+                Evitar, resistir
                 Tu hechizo de suave adicción
                 Como si fuera fácil
                 Dominar mi sentir
