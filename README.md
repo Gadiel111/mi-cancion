@@ -5,26 +5,26 @@ editar-cancion
                 Evitar, resistir
                 Tu hechizo de suave adicción
                 Como si fuera fácil
-                Dominar mi sentir
+                Dominar mi sentir......
   
                 Y saber que te vas
                 Y saber que la abstinencia me puede
                 Todo se vuelve oscuro
-                Y solo puedo decir
+                Y solo puedo decir.....
   
                 Más, dame un poco más
                 Quiero intoxicarme en vos
-                Arrancacorazones
+                Arrancacorazones......
   
                 Hoy, antes del final
                 Quiero intoxicarme en vos
                 Arrancacorazones
-                Dame tu droga
+                Dame tu droga......
   
                 Y pensar que una vez
                 Me dijiste: terminemos todo
                 Mi vida es un desastre
-                Y no te quiero en él
+                Y no te quiero en él......
   
                 Pero al fin, te seguí
                 Por un laberinto de espejos rotos
