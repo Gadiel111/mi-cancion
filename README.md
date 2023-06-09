@@ -36,7 +36,7 @@ editar-cancion
                 Quiero intoxicarme en vos
                 Arrancacorazones
                 Hoy, antes del final
-  
+  ................................................................
                 Quiero intoxicarme en vos
                 Arrancacorazones
                 Dame tu droga
@@ -44,6 +44,7 @@ editar-cancion
                 Más, dame un poco más
                 Quiero intoxicarme en vos
                 Arrancacorazones
+                
   
                 Hoy, antes del final
                 Quiero intoxicarme en vos
@@ -58,7 +59,7 @@ editar-cancion
                 Arrancacorazones
   
                 Más
-  
+ .............................................................,,,,.... 
                 Quiero intoxicarme en vos
   
                 Hoy
