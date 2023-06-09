@@ -5,57 +5,57 @@ editar-cancion
              <h3>   Evitar, resistir
                 Tu hechizo de suave adicción
                 Como si fuera fácil
-                Dominar mi sentir
+                Dominar mi sentir]]]]
   
                 Y saber que te vas
                 Y saber que la abstinencia me puede
                 Todo se vuelve oscuro
-                Y solo puedo decir
+                Y solo puedo decir]]]
   
                 Más, dame un poco más
                 Quiero intoxicarme en vos
-                Arrancacorazones
+                Arrancacorazones]]]
   
                 Hoy, antes del final
                 Quiero intoxicarme en vos
                 Arrancacorazones
-                Dame tu droga
+                Dame tu droga]]]
   
                 Y pensar que una vez
                 Me dijiste: terminemos todo
                 Mi vida es un desastre
-                Y no te quiero en él
+                Y no te quiero en él]]]
   
                 Pero al fin, te seguí
                 Por un laberinto de espejos rotos
-                Y aparecí en un barrio
+                Y aparecí en un barrio]]]
   
                 Del que no puedo salir
-                Más, dame un poco más
+                Más, dame un poco más]]]
   
                 Quiero intoxicarme en vos
                 Arrancacorazones
-                Hoy, antes del final
+                Hoy, antes del final]]]
   
                 Quiero intoxicarme en vos
                 Arrancacorazones
-                Dame tu droga
-  
-                Más, dame un poco más
-                Quiero intoxicarme en vos
-                Arrancacorazones
-  
-                Hoy, antes del final
-                Quiero intoxicarme en vos
-                Arrancacorazones
+                Dame tu droga]]]
   
                 Más, dame un poco más
                 Quiero intoxicarme en vos
-                Arracancorazones
+                Arrancacorazones]]]
   
                 Hoy, antes del final
                 Quiero intoxicarme en vos
-                Arrancacorazones
+                Arrancacorazones]]]
+  
+                Más, dame un poco más
+                Quiero intoxicarme en vos
+                Arracancorazones]]]
+  
+                Hoy, antes del final
+                Quiero intoxicarme en vos
+                Arrancacorazones]]]
   
                 Más
   
@@ -75,3 +75,4 @@ editar-cancion
                 Quiero intoxicarme en vos
                 Arrancacorazones
                 Dame tu droga.. <h3>
+               <3 <3 <3
